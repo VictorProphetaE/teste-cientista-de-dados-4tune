@@ -14,7 +14,7 @@ Este programa calcula métricas de preparação para a aposentadoria com base em
 2. Instale as bibliotecas Python necessárias executando o seguinte comando:
     `pip install pandas numpy matplotlib`
             
-            ou
+ou
 
 3. Caso seja no notebook Jupyter
     `!pip install pandas numpy matplotlib`
